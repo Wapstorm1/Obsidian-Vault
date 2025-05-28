@@ -176,7 +176,7 @@
             }
           },
           {
-            "id": "ae2d2a44a046b90b",
+            "id": "08068c624906fef0",
             "type": "leaf",
             "state": {
               "type": "calendar",
@@ -201,11 +201,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "yet-another-obsidian-synchronizer:YAOS": false
+      "yet-another-obsidian-synchronizer:YAOS": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "226622d7f164e57e",
   "lastOpenFiles": [
+    "Pasted image 20250527214902.png",
     "CICD/Pipeline code breakedown.md",
     "Untitled.md",
     "CICD",
@@ -237,7 +239,6 @@
     "QA theory/Images/Pasted image 20241119165948.png",
     "QA theory/Interview questions.md",
     "2025-03-03.md",
-    "QA theory/Use Case Testing.md",
     "QA theory/Images",
     "QA theory/Test_Plan_Payment_App 1.pdf",
     "QA theory 2",
