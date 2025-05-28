@@ -24,5 +24,6 @@ Similarly:
 asdada LOX
 
 SAM LOX
+NET TY LOX
 
 #API
