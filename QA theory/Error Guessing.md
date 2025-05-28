@@ -1,0 +1,1 @@
+This is about testing using experience, when already known some common errors that you know that those modules or areas must e checked. 

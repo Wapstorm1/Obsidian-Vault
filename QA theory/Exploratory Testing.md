@@ -1,0 +1,1 @@
+It is all about testing without having prepared test documentation and without documentation of the product. So you test and create documentation during the testing. 

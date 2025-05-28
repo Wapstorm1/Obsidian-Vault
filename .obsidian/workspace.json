@@ -1,0 +1,256 @@
+{
+  "main": {
+    "id": "58bc061381ae591f",
+    "type": "split",
+    "children": [
+      {
+        "id": "d541e69f217062ac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eddd7a210fd70a80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QA theory/GPT training session.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "GPT training session"
+            }
+          },
+          {
+            "id": "226622d7f164e57e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CICD/Pipeline code breakedown.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Pipeline code breakedown"
+            }
+          },
+          {
+            "id": "1cb5ba3189fdeb85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "QA theory/Acceptance Criteria.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Acceptance Criteria"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6b5d4b5ccc3ba370",
+    "type": "split",
+    "children": [
+      {
+        "id": "dac5af2c2bafd6a1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "43a54cc38605e34c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8e7b1cd93dba90ee",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "aebcd03d5369f215",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5
+  },
+  "right": {
+    "id": "0588862f6cac2745",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd13a2477e4637c9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67b5acda8e9021e6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Web Automation/Selenium/Locators.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Locators"
+            }
+          },
+          {
+            "id": "fe435b503ebed1a6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "482716e4126432e5",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b8bb8486b88cfc15",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "ae2d2a44a046b90b",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "226622d7f164e57e",
+  "lastOpenFiles": [
+    "Untitled.md",
+    "CICD/Pipeline code breakedown.md",
+    "CICD",
+    "Fortunate preparation/First interview questions.md",
+    "QA theory/Test design techniques.md",
+    "QA theory/Equivalence Partitioning.md",
+    "QA theory/GPT training session.md",
+    "attributes.md",
+    "QA theory/Acceptance Criteria.md",
+    "QA theory/Testing Levels.md",
+    "states.md",
+    "Снимок экрана 2025-05-19 в 22.49.59.png",
+    "Fortunate preparation",
+    "QA theory/Software Testing.md",
+    "QA theory/Sanity Testing.md",
+    "QA theory/Grey-Box Testing.md",
+    "QA theory/Example of Decision Table Testing.md",
+    "QA theory/Decision Table Testing.md",
+    "activities.md",
+    "QA theory/STLC.md",
+    "QA theory/Questions/How often do we need to check old bugs to clean the the unnecessary bugs?.md",
+    "QA theory/What is shift-left testing, and why is it important?.md",
+    "QA theory/Scrum.md",
+    "202505161831.md",
+    "Untitled.canvas",
+    "2025-05-16.md",
+    "QA theory/Pairwise Testing.md",
+    "QA theory/Images/Pasted image 20250107163227.png",
+    "QA theory/Images/Pasted image 20241119165948.png",
+    "QA theory/Interview questions.md",
+    "2025-03-03.md",
+    "QA theory/Use Case Testing.md",
+    "QA theory/Images",
+    "QA theory/Test_Plan_Payment_App 1.pdf",
+    "QA theory 2",
+    "FLUZ",
+    "GIT/Untitled",
+    "GIT",
+    "QA theory.zip",
+    "QA theory/Questions",
+    "QA theory/Images/Pasted image 20250113182954.png",
+    "Web Automation/Pasted image 20241101190217.png",
+    "Web Automation/Pasted image 20241101185524.png",
+    "Web Automation/Снимок экрана 2024-11-22 в 17.19.39.png",
+    "Web Automation/Снимок экрана 2024-11-19 в 16.59.32.png",
+    "QA theory/Images/Pasted image 20250109160608.png",
+    "QA theory/Images/Pasted image 20250107171918.png"
+  ]
+}

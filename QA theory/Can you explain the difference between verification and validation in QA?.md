@@ -1,0 +1,2 @@
+- Validation is the process of estimating final product, does the product meet the client requirements? (Do we do the right product ?)
+- **Verification** is the process of checking whether the **product is being built correctly** according to the requirements, design, and specifications. (Are we building product in the correct way?)

@@ -1,0 +1,1 @@
+In general you need to use simple language. Explain the main scope briefly and show the results in %. You can use diagrams or presentations and of course show some demo with explanation what and how was covered during the tests and why it is important. 

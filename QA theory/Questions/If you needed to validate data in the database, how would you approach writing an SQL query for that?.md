@@ -1,0 +1,1 @@
+Overall you just need to identify what data you need validate like ID or user first name etc. Then write a query to meet all conditions of validation. 

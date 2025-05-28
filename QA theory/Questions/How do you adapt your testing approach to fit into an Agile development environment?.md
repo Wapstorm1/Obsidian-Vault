@@ -1,0 +1,1 @@
+So key aspects here is **early communication** to be involved in planning as early as possible. Test feature from smaller modules. The focus on critical functionality and scenarios.

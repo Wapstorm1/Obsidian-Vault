@@ -1,0 +1,2 @@
+In a nutshell I was testing calculation and applying different discounts in a cart module. Particularly I was adding and deleting discounts. There were different discounts that could only be applied for certain products/amount of product etc. 
+I was testing main functionality when I discovered if I add speceific product couple of times to trigger specefiec discount. And then delete all products the discount were still applied. 
