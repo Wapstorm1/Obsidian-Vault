@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CICD/Pipeline code breakedown.md",
+                "file": "API/200-299.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Pipeline code breakedown"
+              "title": "200-299"
             }
           },
           {
@@ -126,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web Automation/Selenium/Locators.md",
+                "file": "API/200-299.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -136,7 +136,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Locators"
+              "title": "Backlinks for 200-299"
             }
           },
           {
@@ -200,13 +200,14 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
   "active": "226622d7f164e57e",
   "lastOpenFiles": [
-    "Untitled.md",
     "CICD/Pipeline code breakedown.md",
+    "Untitled.md",
     "CICD",
     "Fortunate preparation/First interview questions.md",
     "QA theory/Test design techniques.md",
