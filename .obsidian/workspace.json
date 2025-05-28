@@ -28,13 +28,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "API/200-299.md",
+                "file": "API/API.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": false
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "200-299"
+              "title": "API"
             }
           },
           {
@@ -201,7 +210,6 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "zk-prefixer:Create new unique note": false,
-      "yet-another-obsidian-synchronizer:YAOS": false,
       "obsidian-git:Open Git source control": false
     }
   },
