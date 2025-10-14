@@ -1,10 +1,11 @@
 * #### **agent any**
 🤖 This tells Jenkins:
-> “Use **any available agent (machine)** to run this pipeline.”
+> “Use **any available agent (node)** to run this pipeline.”
 💡 Jenkins picks a worker node (or Docker container) to execute the pipeline steps.
 
 * #### **environment { ... }**
-🌎 This block defines **environment variables** you’ll use throughout the pipeline.
+🌎 This block defines **environment variables** you’ll use throughout the pipeline. It is like in Postman where for collection or env you have already defined some main/basic variables.
+Here is CI/CD pipeline you will se something like: SiteID, Token, Site URL.
 
 ---
 #### **NETLIFY_SITE_ID = 'YOUR NETLIFY SITE ID'**
@@ -29,6 +30,7 @@ $BUILD_ID is a built-in Jenkins variable that auto-increments with every run.
 This means:
 > “Keep using the same Jenkins workspace folder for all stages on this agent.”
 This helps later stages (like Tests or Deploy) reuse files like the build/ folder.
+If we want to apply changes or dependencies to our docker container from previous stages. 
 
 * #### **npm test**
 🎯 Runs your unit tests — based on the "test" script in package.json:
@@ -55,3 +57,4 @@ Even if the test fails, Jenkins will still attach the results!
 Without &, the script would stop here and wait forever.
 
 
+* **Workspace** - is like a folder made to separate different jobs/pipelines

@@ -1,0 +1,1 @@
+The main idea is to test that the product itself can handle stable work under specific workloads. 
