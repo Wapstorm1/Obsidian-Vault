@@ -3,7 +3,7 @@
 
 Linux follows a strict structure:
 
-- / – root of the entire filesystem
+- / – root of the entire [[File system]]
     
 - /home/username – your personal space
     
