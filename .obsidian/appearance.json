@@ -1,6 +1,6 @@
 {
-  "cssTheme": "Typewriter",
+  "cssTheme": "Dracula for Obsidian",
   "translucency": false,
   "accentColor": "#994ce6",
-  "theme": "obsidian"
+  "theme": "system"
 }
