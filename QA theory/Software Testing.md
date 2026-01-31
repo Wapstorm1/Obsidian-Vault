@@ -42,7 +42,7 @@ As a QA engineer, your work will follow a structured process. Here’s a **step-
 
 • **Test Case**: A set of actions to verify a specific feature or function.
 • **[[Test Scenario]]**: It is a document which provide description what needs to tested focusing on E2E functionality or from user perspective.
-• **[[Boundary Value Analysis]]**: Testing at the edges of input ranges (e.g., min/max values).
+• **[[Boundary Value Analysis]]**: Testing at the edges of input ranges (e.g., min/max values). Typically used for creating [[Edge cases]].
 • **[[Equivalence Partitioning]]**: Dividing inputs into valid and invalid groups to reduce redundant tests.
 
 • **Creating Test Data**:
