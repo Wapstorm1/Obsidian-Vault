@@ -1,0 +1,2 @@
+
+I start by clarifying the goal of the feature and acceptance criteria with PM and developers, then identify risks and decide what needs the deepest coverage. I scope testing by defining core flows, edge cases, and non-functional checks, and document them as test conditions or test cases. During development I test incrementally, give fast feedback, and adjust coverage as the feature evolves. Before release, I run focused regression and verify fixes, then provide a clear quality status and risk assessment for go/no-go.
