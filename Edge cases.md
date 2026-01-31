@@ -1,1 +1,1 @@
-This 
+These types of cases where based on a baundary values and feature diffrent limits you are testing the edges, states, transitions. Usufull because typically that is where the bugs appear.

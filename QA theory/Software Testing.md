@@ -78,7 +78,7 @@ As a QA engineer, your work will follow a structured process. Here’s a **step-
 • **[[Functional Testing]]**: Validates that the application works as intended. 
 • [[Non-Functional Testing]]: Validates 
 • **Regression Testing**: Ensures new changes don’t break existing functionality.
-• **Exploratory Testing**: Ad-hoc testing to uncover unexpected issues.
+• **Exploratory Testing**: Ad-hoc testing to uncover unexpected issues.(typically when there is not enough information, you test by discovering the feature specs in real time)
 • **Defect Logging**: Document issues found during testing.
 • **Defect Tracking**:
 • Log bugs in tools like JIRA and track their resolution.
