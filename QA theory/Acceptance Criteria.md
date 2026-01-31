@@ -28,6 +28,10 @@ Defines conditions a feature must meet to be accepted by the Product Owner or st
 
 
 
+> [!NOTE]
+> QA do not create accaptance criteria by themselfs. Usually they already been created by PM or BA.
+> 
+
 * This is about push-notifications
   **💡 Bonus Checks You Could Add:**
 - 🔕 Should push notifications respect **user settings** (e.g., disabled alerts)?
