@@ -1,4 +1,4 @@
-I’m a good fit for this role because my core strength is protecting critical user outcomes in web and mobile products under real constraints. Most of my experience has been in environments where requirements were incomplete, timelines were tight, and quality decisions actually mattered, not just test coverage.
+ I’m a good fit for this role because I focus on critical user flows in web and mobile products under real constraints. Most of my experience has been in environments where requirements were incomplete, timelines were tight, and quality decisions actually mattered, not just test coverage.
 
 In my recent roles, especially at Stryber and Global Payments, I owned manual testing end to end. I regularly had to decide what to test deeply and what to leave out, focusing on core user flows, data correctness, and usability rather than cosmetic issues. That mindset translates well to Duolingo, where small issues in core flows can silently affect learner trust, progress, or retention.
 
