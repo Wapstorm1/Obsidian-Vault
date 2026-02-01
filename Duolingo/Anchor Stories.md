@@ -1,4 +1,4 @@
-### **1. Risk-Based Decision — Business / Learner Impact**
+### **1. Risk-Based Decision — Business / Learner Impact | Discount logic!**
 
 **Context**
 
