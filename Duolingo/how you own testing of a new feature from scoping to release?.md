@@ -6,5 +6,8 @@ During the development, I tested incrementally as builds developed, gave fast fe
 
 Before the release I did regression for core functionality, verified fixes, and then gave QA approval. I reported what was covered, what was not, and etc. so the release decision was transparent. 
 
-
+1. Scoping - understand main idea of the feature + Acceptance criterias
+2. Coverage planning - Identify core functionality and decide what to test and how deep
+3. Execution - test builds as they develop (incrementally) and give feedback.
+4. Release decision - regression, fixes, qa approval
 
