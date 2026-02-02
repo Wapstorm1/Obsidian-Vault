@@ -8,4 +8,3 @@ Before the release I did regression for core functionality, verified fixes, and 
 
 
 
-I start by understanding the user goal and clarifying acceptance criteria with the PM and developers. For example in Stryber when I was working with MVPs mobile features with incomplete requirements, I firstly identified the main risks, scope deep testing around core flows and edge cases, and keep lighter coverage for secondary behavior. I test incrementally during development, give fast feedback, and before release I run focused regression and provide a clear quality status with remaining risks for a go/no-go decision.
