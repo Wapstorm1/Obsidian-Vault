@@ -1,2 +1,5 @@
 .obsidian/cache
 .obsidian/workspace.json
+
+# Obsidian Copilot plugin secrets
+.obsidian/plugins/copilot/data.json
