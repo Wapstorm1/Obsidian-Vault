@@ -1,0 +1,3 @@
+- Verified CI builds and deployment readiness in Jenkins using logs and runtime checks?
+- Focused manual testing on high-risk areas such as wallet integrations, staking logic, and transaction consistency.
+-  Identified critical calculation and reconciliation issues prior to release, preventing user-impacting defects?

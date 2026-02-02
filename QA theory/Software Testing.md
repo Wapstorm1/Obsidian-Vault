@@ -42,7 +42,7 @@ As a QA engineer, your work will follow a structured process. Here’s a **step-
 
 • **Test Case**: A set of actions to verify a specific feature or function.
 • **[[Test Scenario]]**: It is a document which provide description what needs to tested focusing on E2E functionality or from user perspective.
-• **[[Boundary Value Analysis]]**: Testing at the edges of input ranges (e.g., min/max values).
+• **[[Boundary Value Analysis]]**: Testing at the edges of input ranges (e.g., min/max values). Typically used for creating [[Edge cases]].
 • **[[Equivalence Partitioning]]**: Dividing inputs into valid and invalid groups to reduce redundant tests.
 
 • **Creating Test Data**:
@@ -78,7 +78,7 @@ As a QA engineer, your work will follow a structured process. Here’s a **step-
 • **[[Functional Testing]]**: Validates that the application works as intended. 
 • [[Non-Functional Testing]]: Validates 
 • **Regression Testing**: Ensures new changes don’t break existing functionality.
-• **Exploratory Testing**: Ad-hoc testing to uncover unexpected issues.
+• **Exploratory Testing**: Ad-hoc testing to uncover unexpected issues.(typically when there is not enough information, you test by discovering the feature specs in real time)
 • **Defect Logging**: Document issues found during testing.
 • **Defect Tracking**:
 • Log bugs in tools like JIRA and track their resolution.
