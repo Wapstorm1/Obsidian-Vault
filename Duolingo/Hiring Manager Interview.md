@@ -1,0 +1,6 @@
+- How you define risk
+- When you would allow known bugs
+- What makes a release a “no-go”
+- How you separate user risk vs business risk
+- Tell me about a mistake you made in QA.
+- What kind of tester are you not?
