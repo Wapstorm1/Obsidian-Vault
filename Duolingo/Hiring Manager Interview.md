@@ -4,3 +4,6 @@
 - How you separate user risk vs business risk
 - Tell me about a mistake you made in QA.
 - What kind of tester are you not?
+- What do you struggle with as a QA?
+  I feel most challenged when dealing with complex features that involve multiple systems or hidden dependencies. In those situations, I’ve learned that the key is asking more clarifying questions early and mapping out risks before jumping into testing. It’s an area where I’m actively improving — becoming more structured and confident in handling complexity.
+- 
