@@ -1,0 +1,1 @@
+Authorization is metadata. It describes **who is making the request**, not the business payload.
