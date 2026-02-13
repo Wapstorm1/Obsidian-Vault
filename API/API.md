@@ -21,9 +21,6 @@ Similarly:
 
 • The API gets the data from the server and gives it back to the app.
 
-asdada LOX
 
-SAM LOX
-NET TY LOX
 
 #API
