@@ -1,4 +1,5 @@
 An **API (Application Programming Interface)** is like a **messenger** that helps two systems (like apps, websites, or software) talk to each other.
+So right now in a modern world API is a must. It is a standart of communicating of client and a server. Before API everything was local and connected to the database directly. Since Web developed and web products appeared, API was invented as a needed solution.
 
 
 **Simple Explanation**
