@@ -1,20 +1,12 @@
 What is a token?
 
-  
-
 A token is a temporary digital key that proves you are authenticated.
-
-  
 
 Instead of sending email + password on every request, the server gives you a token after login.
 
 You then use that token to access protected endpoints.
 
-  
-
 Why we need it:
-
-  
 
 • Security — password is not sent repeatedly
 
