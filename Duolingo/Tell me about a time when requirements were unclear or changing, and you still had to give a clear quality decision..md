@@ -1,7 +1,10 @@
-At Stryber, requirements were often incomplete and changed during development because we were building MVPs. In those situations, I still had to give a clear quality decision before release.
+At Stryber we were building MVP products with tight deadlines and frequently unclear requirements. I still had to provide QA sign-off before release.
 
-What I did was base my decision on whether the product fulfilled its core user purpose. I focused testing on the main user flow, happy paths, and critical edge cases, and used exploratory testing to identify obvious blockers or data issues.
 
-I consciously accepted known minor UI issues and incomplete secondary features, because fixing them would not change whether the product could be used as intended. When I gave a QA sign-off, I clearly communicated what was covered, what was not, and what risks remained, so the release decision was made consciously, not blindly.
+First, I gathered all available information — user stories, documentation, and direct discussions with PMs, developers, and stakeholders. Then I identified the core purpose of the product and the main user flow that defined whether the product actually worked.
 
-That allowed us to ship functional MVPs despite changing requirements, without releasing products that failed their core purpose.
+Based on that, I prioritized testing of core functionality, happy paths, data correctness, and critical edge cases. I consciously deprioritized minor UI issues or secondary features when they did not impact the main goal.
+
+I tested builds incrementally, gave fast feedback to developers, and relied heavily on exploratory testing to uncover unpredictable behavior.
+
+Before release, I ran regression on core areas, verified fixes, and provided a transparent QA report outlining what was tested, what was not, and what risks remained. This allowed us to ship functional MVPs despite unclear requirements.
