@@ -10,3 +10,13 @@
 
 
 ("Manual QA" OR "Software QA Engineer" OR "Mobile QA" OR "Web QA" OR "Test Analyst" OR "Functional Tester" OR "Quality Assurance Engineer" OR "Test Engineer")
+
+
+ "software QA engineer",\
+        "manual QA",\
+        "test analyst",\
+        "mobile tester",\
+        "mobile QA",\
+        "web qa",\
+        "test engineer",\
+        "functional tester",\
