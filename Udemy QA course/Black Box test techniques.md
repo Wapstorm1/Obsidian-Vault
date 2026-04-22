@@ -9,4 +9,6 @@
    1. Each value belongs only to one partitioning. 
    2. Equivalance part. and BVA can be applied to both output and input values. 
    3. There must be valid and invalid partitions.
-   4. 
+
+* **Decicion transition table** 
+  
