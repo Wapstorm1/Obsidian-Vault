@@ -5,4 +5,5 @@
 * **Boundary-Value analysis**
    This technique is good when you need exact precise testing of the data or input. There are some cases where you wont have time or need to test specefic data, so Equivalance partitioning will be enough. 
    <u>To use this approach for each data partition there must be clear start and end. </u>
+   ![[Pasted image 20260422104813.png]]
    
