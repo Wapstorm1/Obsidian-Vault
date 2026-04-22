@@ -25,3 +25,7 @@
 > [!Note] **Difference between seq. and agile development**
 > Seq.: Fixed req., Estimated resources and time
 > Agile: fixed resources and time, estimated req.
+
+* **Whole team approach**
+  Kinda what I have done in my exp. where you collaborate with each teammember to develop a better product. When you can go to dev and ask them some tech part and they will help you, and opposite they will ask you about the feature req. because you must know it better than they do.
+* 
