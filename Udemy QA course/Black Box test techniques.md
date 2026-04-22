@@ -10,5 +10,7 @@
    2. Equivalance part. and BVA can be applied to both output and input values. 
    3. There must be valid and invalid partitions.
 
-* **Decicion transition table** 
+* **Decision transition table** 
+  number of table rules = 2^n
+  2 - yes/no, n = number of questions
   
