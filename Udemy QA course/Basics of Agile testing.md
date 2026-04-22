@@ -34,11 +34,14 @@
 * **User Story** is a req. that contains a single action. Typically is like "As a user I want to login into the site with faceid". It's a clear task, and can be a part of login Epic, where there can be login with phone, email and so on. And typically must be finished in one sprint. 
 * **Tasks** - simple tickets in Jira that are connected to User stories (or not). 
 
-Each User Story can be checked to understand if it is created correctly by the INVEST
+==Each User Story can be checked to understand if it is created correctly by the INVEST==
 **I**ndependent - stries must be independent and be testable separately. But it does not mean that they cannot have dependancies. 
 **N**egotiable - in case of any difficulties, user story must be changable in technical part like fow to implement the functionality, not to change the idea.
 **V**aluable - user story must bring value the customers or pdocuct, not just exist. 
 **E**stimatable - you can be able to clearly estimate the user story.
 **S**imple (small) - story must be not big, because it must be developed quick, if it is too big, must be devided in separate stories. 
 **T**estable
+
+
+<p align="center"><strong>Scrum</strong></p>
 
