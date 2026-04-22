@@ -21,3 +21,7 @@
 12. **Regular Reflection:** At regular intervals, the team reflects on how to become more effective, then tunes and adjusts behavior.
 
 
+
+> [!Note] **Difference between seq. and agile development**
+> Seq.: Fixed req., Estimated resources and time
+> Agile: fixed resources and time, estimated req.
