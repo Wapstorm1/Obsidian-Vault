@@ -3,4 +3,5 @@
    Communication and connection is more important than tools and methodologies
 2. Working Soft over Comprehensive Documentation
    No matter how good looking your documentation it does not matter if your soft is bad. 
-3. 
+3. Customer Collaboration Over Contract Negotiation
+4. Responding to Change Over Following Plan
