@@ -35,7 +35,7 @@
 * **Tasks** - simple tickets in Jira that are connected to User stories (or not). 
 
 Each User Story can be checked to understand if it is created correctly by the INVEST
-**I**ndependent
+**I**ndependent - stries must be independent and be testable separately. But it does not mean that they cannot have dependancies. 
 **N**egotiable
 **V**aluable
 **E**stimatable
