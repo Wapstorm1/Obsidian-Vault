@@ -12,5 +12,5 @@
 
 * **Decision transition table** 
   number of table rules = 2^n
-  2 - yes/no, n = number of questions
+  2 - yes/no (can be more, but in general 2), n = number of questions
   
