@@ -5,3 +5,5 @@
    No matter how good looking your documentation it does not matter if your soft is bad. 
 3. Customer Collaboration Over Contract Negotiation
 4. Responding to Change Over Following Plan
+
+<p align="center"><strong>12 Principles</strong></p>
