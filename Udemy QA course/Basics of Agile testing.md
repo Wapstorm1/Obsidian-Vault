@@ -44,4 +44,4 @@
 
 
 <p align="center"><strong>Scrum</strong></p>
-Scrum is ==a lightweight Agile framework used to develop, deliver, and sustain complex products through collaboration, accountability, and iterative progress==
+Scrum is ==a lightweight Agile framework used to develop, deliver, and sustain complex products through collaboration, accountability, and iterative progress==. Agile is an ideology, bunch of fundamental rules. 
