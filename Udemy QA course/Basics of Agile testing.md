@@ -30,3 +30,6 @@
   Kinda what I have done in my exp. where you collaborate with each teammember to develop a better product. When you can go to dev and ask them some tech part and they will help you, and opposite they will ask you about the feature req. because you must know it better than they do.
 <p align="center"><strong>Agile requirements</strong></p>
 * **Theme** - it is like a general naming for a big part of a product. For example a "Wishlist" in a e-commerce product. 
+* **Epic** - goes after **Theme**. If Wishlist is a theme, Epic would be "As a user I want to save my products in a list to people see it and buy it for me". Typically it is a user stories that is too big to divide it into smaller tasks. And you break it into user stories.
+* **User Story** is a req. that contains a single action. Typically is like "As a user I want to login into the site with faceid". It's a clear task, and can be a part of login Epic, where there can be login with phone, email and so on. And typically must be finished in one sprint. 
+* 
