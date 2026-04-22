@@ -14,4 +14,6 @@
   number of table rules = 2^n
   2 - yes/no (can be more, but in general 2), n = number of questions
 * **State-Transition Testing**
+  Basically you check the transitions from one state to another. State you identify but your own. Each product can have different state and transitions. The thing is here to check every state and transtions between them, because it is where the bugs are. 
+* **Pairwise Testing** 
   
