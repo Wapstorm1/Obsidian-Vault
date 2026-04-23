@@ -7,4 +7,4 @@ Cool feature that there are a lot of public API, meaning that anybody can use th
 
 **POST vs PUT**
 POST is used to create a new resource on a backend (like a new user, add new item to the catalog and so on). Meaning endpoint will look like url/movies and inside the body (JSON) there will be a all data that is needed like: title, year, janre, time, actors and so on. When you hit POST couple of times it will create same resource couple of times.
-But PUT is used to updated already **existed** resource. And the endpoint is url/movies/id (because we need to identify the resource we will be updating) and hitting PUT multiple times we wont create a new resource, just update existed multiple times. 
+But PUT is used to replace already **existed** resource. And the endpoint is url/movies/id (because we need to identify the resource we will be updating) and hitting PUT multiple times we wont create a new resource, just update existed multiple times by replacing it with a new one. 
