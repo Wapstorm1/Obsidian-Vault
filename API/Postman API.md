@@ -1,4 +1,4 @@
-We use [[Postman]] to test [[API]]. In general testers use it to send some requests to test endpoints. And make sure they work as designed. As I understood for the Udemy corse. We should have some sort of API documentation of the project/product provided by the dev team or somebody else. 
+We use [[Postman]] to test [[API/API]]. In general testers use it to send some requests to test endpoints. And make sure they work as designed. As I understood for the Udemy corse. We should have some sort of API documentation of the project/product provided by the dev team or somebody else. 
 
 We have:
 1. **Endpoints**:
