@@ -1,1 +1,1 @@
-Application programming interface, which allows two different apps (written with different languages) communicate with each other. 
+Application programming interface, which allows two different apps (written with different languages) communicate with each other. Typically in 99% used for a client-server applications. 
