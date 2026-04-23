@@ -1,3 +1,4 @@
 * **Native mobile app** - created with specific programming language for specific platform like IOS/Android, and installs physically on a mob device. As a plus good perfomance as it was created directly for the OS.
 * **Web-mob. apps** - mobile version of web-sites. Basically it's done by a web dev who just adapts a PC version to a mobile (of course designer must create a layouts for mob and dev will adapt it with scaling and functionality). Using browser emulator is good, but always check on real device. 
-* **Hybrid** - a combination of web + native app. It is a web site inside a mob app. You download it from a mob store, but it operates from an inside as a web page. ==“Website inside a mobile app, with access to phone features”== 
+* **Hybrid** - a combination of web + native app. It is a web site inside a mob app. You download it from a mob store, but it operates from an inside as a web page. ==“Website inside a mobile app, with access to phone features”==. Easier and faster to make in comperising with native apps, one code base, but not efficient and powerfull as native apps + cannot handle loads and complex features. 
+* 
