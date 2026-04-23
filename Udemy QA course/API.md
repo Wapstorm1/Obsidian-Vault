@@ -1,1 +1,2 @@
 Application programming interface, which allows two different apps (written with different languages) communicate with each other. Typically in 99% used for a client-server applications. 
+This interface give user limited (as an example) a access to the data (or operations with data) on a sever side, without full exposure to the data (in security reasons of course). So that 2 different apps can communicate with each other and without security risks.
