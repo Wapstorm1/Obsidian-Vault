@@ -1,0 +1,1 @@
+Application programming interface, which allows two different apps (written with different languages) communicate with each other. 
