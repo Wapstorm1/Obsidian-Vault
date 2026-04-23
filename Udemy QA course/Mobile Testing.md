@@ -1,2 +1,2 @@
 * **Native mobile app** - created with specific programming language for specific platform like IOS/Android, and installs physically on a mob device. As a plus good perfomance as it was created directly for the OS.
-* **Web-mob. apps** - mobile version of web-sites. 
+* **Web-mob. apps** - mobile version of web-sites. Basically it's done by a web dev who just adapt a PC version to a mobile (of course designer must create a layout or developer will adapt the scaling)
