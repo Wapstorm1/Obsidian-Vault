@@ -49,4 +49,5 @@
 
 * **DoD** - definition of done. Criterias which team defines to identify the sprint completion. 
 
-* **Kanban** 
+* **Kanban** - so it is like you had typical Kira board. But the board is the Kanban. So whatever is on the board is current activities and if the limit is exceeded you cannot add more tasks to the board. 
+* 
