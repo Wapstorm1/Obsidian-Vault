@@ -1,0 +1,1 @@
+* **Native mobile app** - created with specific programming language for specific platform like IOS/Android, and installs physically on a mob device. As a plus good perfomance as it was created directly for the OS.
