@@ -47,4 +47,4 @@
 Scrum is ==a lightweight Agile framework used to develop, deliver, and sustain complex products through collaboration, accountability, and iterative progress==. Agile is an ideology, bunch of fundamental rules. 
 
 
-* **DoD** - definition of done. 
+* **DoD** - definition of done. Criterias which team defines to identify the sprint completion. 
