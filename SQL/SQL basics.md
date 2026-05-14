@@ -8,4 +8,5 @@ Non-relation DBs do not have relation and do not store data in tables. They stor
 But in the same time with NRDB you can store user orders info in one "folder" for this user. When you open user with ID 72 John Smith it will show you all hs info + all his orders. Instead of connecting multiple tables in RDB to fetch data that is correlated with this user. 
 
 **PROS & CONS**
-For RDB are concistency, structure, relations and integrety. Harder to to change data often in a big DBs, 
+For RDB are concistency, structure, relations and integrety. Harder to to change data often in a big DBs, hard to scale horizontally (its doable, just not easy to), and with scaling queries became more complex too.
+For NRDB main aspect is flexability, meaning 
