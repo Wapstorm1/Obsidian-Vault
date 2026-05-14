@@ -9,4 +9,4 @@ But in the same time with NRDB you can store user orders info in one "folder" fo
 
 **PROS & CONS**
 For RDB are concistency, structure, relations and integrety. Harder to to change data often in a big DBs, hard to scale horizontally (its doable, just not easy to), and with scaling queries became more complex too.
-For NRDB main aspect is flexability, meaning 
+For NRDB main aspect is flexability, meaning you can set data files structure as you want. But again no relations or structure, and badly handles duplicates or 
