@@ -1,0 +1,1 @@
+DBs are systems that allows users to store and organize data. Used to deal with large amount of data. 
