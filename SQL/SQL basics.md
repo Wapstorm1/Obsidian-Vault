@@ -16,3 +16,27 @@ So we will be working with RDB at least for now this is the only experience we h
 A **Foreign Key** is a column that connects one table to another table.
 **NULL** - means that value is not provided. It is not a Zero, for example in a user table if customer does not provide a phone number it will be a NULL. 
 
+```
+SELECT TOP 10
+
+    u.id,
+    u.name,
+    u.email,
+    COUNT(o.id) AS total_orders,
+    SUM(o.total_amount) AS total_spent
+
+FROM users u
+
+LEFT JOIN orders o
+    ON u.id = o.user_id
+WHERE u.status = 'active'
+  AND u.created_at >= '2025-01-01'
+GROUP BY
+
+    u.id,
+    u.name,
+    u.email
+
+HAVING COUNT(o.id) > 0
+ORDER BY total_spent DESC;
+```
