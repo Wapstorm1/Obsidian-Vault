@@ -14,3 +14,4 @@ For NRDB main aspect is flexability, meaning you can set data files structure as
 So we will be working with RDB at least for now this is the only experience we have. To better understand the structure of a RDB table we need to know Primary key and Foreign key. 
 **PK** - is a column that uniquely identifies each row in a table.There are some rules for a PK: it must be unique, cannot be NULL, should not change, identifies 1 exact row.
 A **Foreign Key** is a column that connects one table to another table.
+**NULL** - means that value is not provided. It is not a Zero, for example in a user table if customer does not provide a phone number it will be a NULL. 
