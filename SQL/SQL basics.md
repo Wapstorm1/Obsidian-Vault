@@ -9,4 +9,8 @@ But in the same time with NRDB you can store user orders info in one "folder" fo
 
 **PROS & CONS**
 For RDB are concistency, structure, relations and integrety. Harder to to change data often in a big DBs, hard to scale horizontally (its doable, just not easy to), and with scaling queries became more complex too.
-For NRDB main aspect is flexability, meaning you can set data files structure as you want. But again no relations or structure, and badly handles duplicates or 
+For NRDB main aspect is flexability, meaning you can set data files structure as you want. But again no relations or structure, and badly handles duplicates.
+
+So we will be working with RDB at least for now this is the only experience we have. To better understand the structure of a RDB table we need to know Primary key and Foreign key. 
+**PK** - is a column that uniquely identifies each row in a table.There are some rules for a PK: it must be unique, cannot be NULL, should not change, identifies 1 exact row.
+A **Foreign Key** is a column that connects one table to another table.
