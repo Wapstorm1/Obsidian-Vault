@@ -40,4 +40,3 @@ GROUP BY
 HAVING COUNT(o.id) > 0
 ORDER BY total_spent DESC;
 ```
-asdads
