@@ -1,0 +1,1 @@
+When you use an aggregate function like `SUM()`, SQL needs to know: SUM population per what?
