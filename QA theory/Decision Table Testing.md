@@ -35,4 +35,4 @@ A decision table typically includes:
 4. **Define Test Cases**:
 • Each column (rule) in the table becomes a unique test case.
 
-**[[QA theory/Example of Decision Table Testing]]**
+**[[Example of Decision Table Testing]]**
